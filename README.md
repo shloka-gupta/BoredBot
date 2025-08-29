@@ -1,3 +1,5 @@
-##BoredBot
+#BoredBot
 
-Sooooo... what this code does is explore fetching data from an API, and with it we are using the the bored bot, scrimba API.
+Explores fetching data from an API, and with it we are using the the bored bot, scrimba API.
+
+Hosted on : https://app.netlify.com/projects/astounding-alfajores-62ae00/overview 
